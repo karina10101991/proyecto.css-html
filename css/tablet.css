@@ -1,0 +1,25 @@
+.legales{
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 80%;
+}
+.legales li{
+    display: inline;
+    text-align: center;
+}
+
+/*----Enviar----*/
+.formulario_items{
+    display: flex;
+}
+
+/*----salud de la piel----*/
+.intro_saluddelapiel{
+    padding: 0 25px;
+}
+.informacion_saluddelapiel h2{
+    font-size: 2rem;
+    text-transform: uppercase;
+    margin: 20px 0;
+}
